@@ -1,6 +1,8 @@
 
 #### `Testing of Arduino`
 
+![Arduino](https://www.distrelec.biz/Web/WebShopImages/landscape_large/0-/01/Arduino_UNO_WIFI_30117100-01.jpg)
+
 * Test the Arduino Board by using blinking an In-Built LED (Below code) 
 
 ```C++
@@ -39,6 +41,8 @@ void loop()
 
 ####  `IR Sensor Testing Code`
 
+![IR Sensor](https://5.imimg.com/data5/WA/GS/MY-5726208/delta-plc-repair-service-500x500.jpg)
+
 * Then check the ir sensor by using this below code.
 
 ```C++
@@ -67,6 +71,8 @@ void loop()
 
 ```
 ####  `Boom Barrier Code`
+
+![IR Sensor](https://www.highway1.co.nz/wp-content/uploads/2020/06/BOOM-GATE.gif)
 
 * Assemble the parts 
 * copy & paste this code in Arduino IDE.
