@@ -1,9 +1,19 @@
 
-####  `Arduino Testing Code`
+#### `Testing of Arduino`
 
-* First test the arduino with this code to check board is working or not.
+* Test the Arduino Board by using blinking an In-Built LED (Below code) 
 
 ```C++
+/*
+  This Code is written by Rahul Sharma for Yolabs. 
+This is the  simplest code possible to blink in build LED  
+Turns inbuild LED on and off at diff frequency to chk your arduino IDE, Arduino and cable is working
+Note: please check the port in case you have error while uploadig 
+ www.yolabs.in - 2020
+  
+*/
+
+// the setup function runs once when you press reset or power the board
 
 void setup()
 {
@@ -24,8 +34,8 @@ void loop()
 }
 
 
-
 ```
+
 
 ####  `IR Sensor Testing Code`
 
@@ -59,7 +69,7 @@ void loop()
 ####  `Boom Barrier Code`
 
 * Assemble the parts 
-* copy & paste this code.
+* copy & paste this code in Arduino IDE.
 
 ```C++
 
